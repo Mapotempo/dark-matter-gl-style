@@ -19,5 +19,12 @@
     "width": 64,
     "x": 0,
     "y": 0
+  },
+  "oneway": {
+    "height": 17,
+    "pixelRatio": 1,
+    "width": 17,
+    "x": 64,
+    "y": 17
   }
 }
